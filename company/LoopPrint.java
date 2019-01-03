@@ -3,7 +3,7 @@
 * specified format*/
 package com.company;
 import java.util.*;
-public class loopPrint {
+public class LoopPrint {
     public static void main(String [] args){
         int number;
         Scanner scanner = new Scanner(System.in);

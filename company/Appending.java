@@ -3,7 +3,7 @@
  * substring number of times required*/
 package com.company;
 import java.util.*;
-public class appending {
+public class Appending {
     public static void main(String [] args){
         int number;
         String string;

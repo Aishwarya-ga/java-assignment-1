@@ -6,7 +6,7 @@ import java.util.*;
 
 import static java.lang.Character.*;
 
-public class checkLowerUpperCase {
+public class CheckLowerUpperCase {
     public static void main(String [] args){
         char character;
 

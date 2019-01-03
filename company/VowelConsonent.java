@@ -4,7 +4,7 @@
 package com.company;
 import java.util.*;
 
-public class vowelConsonent {
+public class VowelConsonent {
     public static void main(String [] args){
         String input;
         String string;

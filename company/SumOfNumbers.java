@@ -3,7 +3,7 @@
 package com.company;
 import java.util.*;
 
-public class sumOfNumbers {
+public class SumOfNumbers {
     public static void main(String [] args) {
 
             Scanner scanner = new Scanner(System.in);

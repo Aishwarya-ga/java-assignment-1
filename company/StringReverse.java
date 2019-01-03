@@ -3,7 +3,7 @@
 * using string buffer class*/
 package com.company;
 import java.util.*;
-public class stringReverse {
+public class StringReverse {
     public static void main(String[] args){
         String string;
         Scanner scanner = new Scanner(System.in);

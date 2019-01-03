@@ -5,7 +5,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class sort {
+public class Sort {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number: ");

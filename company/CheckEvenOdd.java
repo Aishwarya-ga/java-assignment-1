@@ -4,7 +4,7 @@
 package com.company;
 import java.util.*;
 
-public class checkEvenOdd {
+public class CheckEvenOdd {
     public static void main(String [] args){
         int number;
         int temp;

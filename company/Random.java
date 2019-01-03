@@ -2,7 +2,7 @@
 * guess the number like a game it is*/
 package com.company;
 import java.util.*;
-public class random {
+public class Random {
     public static void main(String[] args){
         /*Random class to generate a random number*/
         Random random = new Random();
